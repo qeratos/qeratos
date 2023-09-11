@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm Nikita
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
 </h1>
 
 ### Reverse engineer and developer 💻 . ITSec experiments and articles writer 📃 . 
-<p align="center" font-weight="bold"> From Belarus 🇧🇾 
-</p>
+### From Belarus 🇧🇾 
 
 ----
 
