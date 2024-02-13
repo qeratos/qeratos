@@ -30,7 +30,7 @@
 
 ## My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younDev1&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infobezovec&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1C8EFF&height=60&section=footer"/>
