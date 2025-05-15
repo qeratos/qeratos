@@ -15,7 +15,7 @@
   * For reverse i use big tools stack like: x64DBG, IDA, DIE, WinDBG, FakeNET, CFFExplorer, 010Editor, ProcMonitor. 
   * Writing articles about my experiments.
   * In my free time i make little embedded projrct for my own.
-  * You can read my articles at [My Blog - in development]()
+  * You can read my articles at [My Blog](https://qeratos.github.io)
   * How you can reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nikita-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-belugin-72ba51180/)
 
 <div>
